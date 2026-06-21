@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+cvzone
+playsound==1.2.2
+pandas
